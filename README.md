@@ -1,12 +1,20 @@
-<h1 align="center">Hi, I'm Lucimar Santos!</h1><img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
+<h1 align="center">Olá, meu nome é Lucimar Santos!</h1>
 
-Backend and Payment Specialist.
+<img align="right" src="img/computer.png" width="350"/>
+
+Especialista em Meios de Pagamento - Padrão ISO8583
+
+Atuo na área de mercado de meios de pagamento eletrônico, desenvolvendo soluções para ambiente online de transações 
+financeiras com cartão de crédito, débito e voucher
 <br>
-Information system
+Bacharel em Sistemas de Informação.
 
 [comment]: <> (:alien:)
 
-Lover of Technology and coding 
+Amo muito essa área de meios de pagamento e back-end, sempre estudando fluxos, arquiteturas e novas tecnologias. 
+
+Abaixo, coloquei algumas informações, as principais skills, porém nos meus repositórios vão ter mais visão sobre os 
+frameworks, estudos e cursos que faço.
 
 [comment]: <> (:purple_heart:)
 
@@ -14,23 +22,12 @@ Lover of Technology and coding
 
 ### My Programming Languages skills
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white?logoWidth=40)
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![GO Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-[comment]: <> (![Dart Badge]&#40;https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&#41;)
-
-[comment]: <> (![Kotlin Badge]&#40;https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white&#41;)
-
-[comment]: <> (![PHP Badge]&#40;https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&#41;)
-
-[comment]: <> (<br>)
-![JS Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-[comment]: <> (<br>)
 
 ### My Databases skills
 ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle Badge](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 <br>
 
@@ -46,10 +43,10 @@ Lover of Technology and coding
 [comment]: <> (![Docker Badge]&#40;https://img.shields.io/badge/Docker-0FAAFF.svg?&style=for-the-badge&logo=docker&logoColor=white&#41;)
 
 [comment]: <> (![Kubernets Badge]&#40;https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&#41;)
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
-<br>
+
+![ApacheKafka Badge](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 ![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket Badge](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 <br>
@@ -58,9 +55,10 @@ Lover of Technology and coding
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![SublimeText Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![AndroidStudio Badge](https://img.shields.io/badge/Android_Studio-01DE7A.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse-3E4D78.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-<br>
+![PyCharm Badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![VisualCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 [comment]: <> (### Cloud)
 
