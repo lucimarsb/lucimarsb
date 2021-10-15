@@ -57,8 +57,6 @@ frameworks, estudos e cursos que faço.
 ![SublimeText Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse-3E4D78.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PyCharm Badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![VisualCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 
 [comment]: <> (### Cloud)
 
